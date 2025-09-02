@@ -4,6 +4,23 @@
   <img width="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmdwNzZrOTB1Y3lkY2t5MzNjOG82N2M1NWdjejN0MWxzM29tM3FvaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/PIoDTqScymsb7A6cN0/giphy.gif">
 </p>
 
+<h4 align="center"><samp> 📊 GitHub Stats </samp></h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deepashreeee&show_icons=true&theme=calm_pink&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<h4 align="center"><samp> 🔥 Streak Stats </samp></h4>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=deepashreeee&theme=calm_pink&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<h4 align="center"><samp> 🗂️ Most Used Languages </samp></h4>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepashreeee&layout=compact&theme=calm_pink&hide_border=true" alt="Top Languages" />
+</p>
 
 <p align="center">
 <a href= "https://www.linkedin.com/in/dipashree311/"><img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/></a>
@@ -13,7 +30,6 @@
 Check out my repos ⬇️  
   </samp>
 </p>
-
 
 
 <!--
