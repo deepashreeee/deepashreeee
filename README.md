@@ -26,6 +26,8 @@
 <a href= "https://www.linkedin.com/in/dipashree311/"><img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/></a>
 </p>
 
+![Postman Student Expert](https://badges.parchment.com/public/assertions/QnA4C0vXRCmfxPhyM0mKQQ?identity__email=deepashreebalamurugan%40gmail.com)
+
 <p align="center"><samp>
 Check out my repos ⬇️  
   </samp>
