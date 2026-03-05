@@ -26,10 +26,13 @@
 <a href= "https://www.linkedin.com/in/dipashree311/"><img src="https://img.icons8.com/material-outlined/32/000000/linkedin.png"/></a>
 </p>
 
-![Postman Student Expert](https://badges.parchment.com/public/assertions/QnA4C0vXRCmfxPhyM0mKQQ?identity__email=deepashreebalamurugan%40gmail.com)
-
 <p align="center"><samp>
 Check out my repos ⬇️  
+  </samp>
+</p>
+
+<p align="center"><samp>
+<blockquote class="badgr-badge" style="font-family: Helvetica, Roboto, &quot;Segoe UI&quot;, Calibri, sans-serif;"><a href="https://badges.parchment.com/public/assertions/QnA4C0vXRCmfxPhyM0mKQQ"><img width="120px" height="120px" src="https://api.badgr.io/public/assertions/QnA4C0vXRCmfxPhyM0mKQQ/image"></a><p class="badgr-badge-name" style="hyphens: auto; overflow-wrap: break-word; word-wrap: break-word; margin: 0; font-size: 16px; font-weight: 600; font-style: normal; font-stretch: normal; line-height: 1.25; letter-spacing: normal; text-align: left; color: #05012c;">Postman API Fundamentals Student Expert</p>  
   </samp>
 </p>
 
